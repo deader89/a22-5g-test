@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch twrp_a22-5g-eng
+lunch twrp_a22_5g-eng
 make recoveryimage
 ```
 
