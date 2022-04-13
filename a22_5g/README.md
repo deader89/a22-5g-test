@@ -1,4 +1,4 @@
-## Recovery Device Tree for the Samsung Galaxy A22 5G (MTK)
+## Recovery Device Tree for the Samsung Galaxy A22 5G 
 
 ## How-to compile it:
 
